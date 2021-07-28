@@ -1,5 +1,5 @@
 'use strict';
-
+var x = 2;
 const btn = document.querySelector('.btn-country');
 const countriesContainer = document.querySelector('.countries');
 const inputBox = document.querySelector('.inputBox');
